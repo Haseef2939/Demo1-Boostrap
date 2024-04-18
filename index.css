@@ -1,0 +1,18 @@
+.btn-primary{
+    margin: 15px;
+}
+
+.carousel-item  img{
+    height: 720px;
+}
+
+.bg-by{
+    background-color: gray;
+    
+    /* margin-left: 200px;  */
+    /* padding-top: 2px;
+    padding-bottom: 2px;*/   
+    border-radius: 1rem; 
+}
+
+
